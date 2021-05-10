@@ -221,3 +221,6 @@ vendor/firmware/aw8697_haptic_168.bin
 vendor/firmware/aw8697_haptic_170.bin
 vendor/firmware/aw8697_haptic_172.bin
 vendor/firmware/aw8697_haptic_174.bin
+
+# Vibrator HAL - from hotdogb-user-10-QKQ1.190716.003-2101212100-release-keys
+vendor/lib64/hw/vibrator.default.so|9c9744e702424f1709148a0ba61a238e0f37e37e
