@@ -15,7 +15,6 @@ $(call inherit-product, device/oneplus/hotdogb/device.mk)
 $(call inherit-product, vendor/dot/config/common.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1080
-WITH_GAPPS := true
 TARGET_SUPPORTS_BLUR := true
 EXTRA_FOD_ANIMATIONS := true
 
