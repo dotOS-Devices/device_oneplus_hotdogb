@@ -1,0 +1,13 @@
+[
+  {
+    "repository"   : "device_oneplus_sm8150-common",
+    "target_path"  : "device/oneplus/sm8150-common"
+  },
+
+  {
+    "repository"  : "proprietary_vendor_oneplus",
+    "target_path" : "vendor/oneplus",
+    "branch"      : "lineage-18.1",
+    "remote"      : "TheMuppets"
+  }
+]
