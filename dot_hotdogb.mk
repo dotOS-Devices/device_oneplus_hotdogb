@@ -18,6 +18,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_BLUR := true
 EXTRA_FOD_ANIMATIONS := true
 
+DEVICE_MAINTAINER := matt0301
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := dot_hotdogb
 PRODUCT_DEVICE := hotdogb
