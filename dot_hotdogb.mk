@@ -32,9 +32,6 @@ PRODUCT_AAPT_CONFIG := xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 PRODUCT_CHARACTERISTICS := nosdcard
 
-# Boot animation
-TARGET_BOOT_ANIMATION_RES := 1080
-
 # Build info
 BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys"
 PRODUCT_BUILD_PROP_OVERRIDES += \
